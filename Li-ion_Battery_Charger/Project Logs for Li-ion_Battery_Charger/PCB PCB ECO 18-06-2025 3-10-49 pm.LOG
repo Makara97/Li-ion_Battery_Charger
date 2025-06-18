@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=NetIC3_1 Pin=IC3-1
+Removed Pin From Net: NetName=GND Pin=IC3-3
+Removed Pin From Net: NetName=4.7v_SUPPLY Pin=IC3-4
+Removed Pin From Net: NetName=NetIC3_20 Pin=IC3-20
+Removed Pin From Net: NetName=GND Pin=IC3-21
+Removed Member From Class: ClassName=SS5 Member=IC3
+Added Component: Designator=IC?(QFN40P300X300X90-21N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ATTINY1616-MNR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/attiny1616-mnr/microchip-technology?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/DKDS41/DSANUWW0026757.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ATTINY1616-MNR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "556-ATTINY1616MNR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/ATTINY1616-MNR?qs=HXFqYaX1Q2yKNpuKQU9qww%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "ATTINY1616-MNRCT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC3_1 Pin=IC?-1
+Added Pin To Net: NetName=GND Pin=IC?-3
+Added Pin To Net: NetName=4.7v_SUPPLY Pin=IC?-4
+Added Pin To Net: NetName=NetIC3_20 Pin=IC?-20
+Added Pin To Net: NetName=GND Pin=IC?-21
+Change Net Name : Old Net Name=NetIC3_1 New Net Name=NetIC?_1
+Change Net Name : Old Net Name=NetIC3_20 New Net Name=NetIC?_20
+Added Pin To Net: NetName=NetIC?_5 Pin=IC?-5
+Added Pin To Net: NetName=NetIC?_5 Pin=R16-1
+Added Net: Name=NetIC?_5
+Added Pin To Net: NetName=NetIC?_14 Pin=IC?-14
+Added Pin To Net: NetName=NetIC?_14 Pin=R11-1
+Added Pin To Net: NetName=NetIC?_14 Pin=U1-7
+Added Net: Name=NetIC?_14
+Added Pin To Net: NetName=NetIC?_15 Pin=IC?-15
+Added Pin To Net: NetName=NetIC?_15 Pin=R10-1
+Added Pin To Net: NetName=NetIC?_15 Pin=U1-1
+Added Net: Name=NetIC?_15
+Added Pin To Net: NetName=NetIC?_19 Pin=IC?-19
+Added Pin To Net: NetName=NetIC?_19 Pin=J4-1
+Added Net: Name=NetIC?_19
+Added Member To Class: ClassName=SS5 Member=Component IC? ATTINY1616-MNR
+Added Room: Name=SS1
+Added Room: Name=SS3
+Added Room: Name=SS7

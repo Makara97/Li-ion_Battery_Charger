@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=q NewDesignator=J1
+Change Net Name : Old Net Name=NetIC3_1 New Net Name=SDA
+Change Net Name : Old Net Name=NetIC3_14 New Net Name=RSTIO
+Change Net Name : Old Net Name=NetIC3_15 New Net Name=ALM
+Change Net Name : Old Net Name=NetIC3_19 New Net Name=UPDI
+Change Net Name : Old Net Name=NetIC3_20 New Net Name=SCK

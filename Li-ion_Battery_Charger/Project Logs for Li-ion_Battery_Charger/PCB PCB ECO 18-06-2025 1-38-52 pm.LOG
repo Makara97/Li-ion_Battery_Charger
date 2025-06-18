@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=GND Pin=R1-1
+Removed Pin From Net: NetName=NetJ1_A5 Pin=R1-2
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=NetJ1_B5 Pin=R3-2
+Change Component Footprint: Designator=R1 Old Footprint=RC0805N_YAG-L New Footprint=RESC1608X55N
+Change Component Footprint: Designator=R3 Old Footprint=RC0805N_YAG-L New Footprint=RESC1608X55N
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RC0805N_YAG-L"; UniqueID = "\EGNJBRGD\NLQWOJEI" ("\EGNJBRGD\NLQWOJEI")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "RC0603FR-075K1L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rc0603fr-075k1l/yageo?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-075K1L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0603FR-075K1L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603FR-075K1L?qs=gt6vzsuosg2jUUwxnI2PJQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-5.10KHRCT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RC0805N_YAG-L"; UniqueID = "\EGNJBRGD\GFSZTKNP" ("\EGNJBRGD\GFSZTKNP")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "RC0603FR-075K1L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rc0603fr-075k1l/yageo?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-075K1L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0603FR-075K1L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603FR-075K1L?qs=gt6vzsuosg2jUUwxnI2PJQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-5.10KHRCT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ1_A5 Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=NetJ1_B5 Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2

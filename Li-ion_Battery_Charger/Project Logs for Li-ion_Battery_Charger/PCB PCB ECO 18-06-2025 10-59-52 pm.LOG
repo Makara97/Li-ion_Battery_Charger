@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=4.7v_SUPPLY Pin=C10-2
+Removed Pin From Net: NetName=4.7v_SUPPLY Pin=IC3-4
+Removed Pin From Net: NetName=4.7v_SUPPLY Pin=J4-2
+Removed Pin From Net: NetName=SCK Pin=R14-1
+Removed Pin From Net: NetName=4.7v_SUPPLY Pin=R14-2
+Removed Pin From Net: NetName=SDA Pin=R15-1
+Removed Pin From Net: NetName=4.7v_SUPPLY Pin=R15-2
+Removed Member From Class: ClassName=SS5 Member=R14
+Removed Member From Class: ClassName=SS5 Member=R15
+Change Net Name : Old Net Name=4.7v_SUPPLY New Net Name=NetC7_2

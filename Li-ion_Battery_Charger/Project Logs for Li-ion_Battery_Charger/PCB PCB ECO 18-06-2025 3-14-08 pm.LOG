@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=NetIC?_1 Pin=IC?-1
+Removed Pin From Net: NetName=GND Pin=IC?-3
+Removed Pin From Net: NetName=4.7v_SUPPLY Pin=IC?-4
+Removed Pin From Net: NetName=NetIC?_20 Pin=IC?-20
+Removed Pin From Net: NetName=GND Pin=IC?-21
+Removed Member From Class: ClassName=SS5 Member=IC?
+Add Component: Footprint Not Found QFN50P300X300X80-17N-D
+Add Pin To Net: Unknown Pin: Pin IC3-1
+Add Pin To Net: Unknown Pin: Pin IC3-3
+Add Pin To Net: Unknown Pin: Pin IC3-4
+Add Pin To Net: Unknown Pin: Pin IC3-20
+Add Pin To Net: Unknown Pin: Pin IC3-21
+Change Net Name : Old Net Name=NetIC?_1 New Net Name=NetIC3_1
+Change Net Name : Old Net Name=NetIC?_20 New Net Name=NetIC3_20
+Added Pin To Net: NetName=NetIC3_5 Pin=R16-1
+Added Net: Name=NetIC3_5
+Added Pin To Net: NetName=NetIC3_14 Pin=R11-1
+Added Pin To Net: NetName=NetIC3_14 Pin=U1-7
+Added Net: Name=NetIC3_14
+Added Pin To Net: NetName=NetIC3_15 Pin=R10-1
+Added Pin To Net: NetName=NetIC3_15 Pin=U1-1
+Added Net: Name=NetIC3_15
+Added Pin To Net: NetName=NetIC3_19 Pin=J4-1
+Added Net: Name=NetIC3_19
+Add Class Member: Failed to add class member : Component IC3 ATTINY1616-MNR

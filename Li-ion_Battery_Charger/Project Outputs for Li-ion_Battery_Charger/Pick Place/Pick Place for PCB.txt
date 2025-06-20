@@ -1,0 +1,52 @@
+Altium Designer Pick and Place Locations
+C:\Users\kavin\Desktop\18650_charger\Li-ion_Battery_Charger\Li-ion_Battery_Charger\Project Outputs for Li-ion_Battery_Charger\Pick Place\Pick Place for PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       20/06/25
+Time:       19:01
+Revision:   5cab5d4286d931de52d4446ce426acce566ebee4
+Variant:    No variations
+Units used: mil
+
+Designator Comment                       Layer    Footprint                     Center-X(mil) Center-Y(mil) Rotation Description                                                                                   
+FM3        FIDUCIAL                      TopLayer FIDUCIAL                      1417.323      118.110       0        FIDUCIAL                                                                                      
+FM1        FIDUCIAL                      TopLayer FIDUCIAL                      354.331       1259.842      0        FIDUCIAL                                                                                      
+FM2        FIDUCIAL                      TopLayer FIDUCIAL                      1417.323      1259.842      0        FIDUCIAL                                                                                      
+U1         STC3115AIQT                   TopLayer DFN10_2X3_STM                 720.000       365.000       270      "STC3115AIQT Fuel Gauge IC"                                                                   
+R16        100                           TopLayer RESC1608X55N                  585.000       523.000       90       "Resistor ERJ-3EKF1000V"                                                                      
+R13        1k                            TopLayer RESC1608X55N                  723.000       229.000       270      RMCF0603FT1K00                                                                                
+R12        1k                            TopLayer RESC1608X55N                  885.000       232.000       270      RMCF0603FT1K00                                                                                
+R11        4.7k                          TopLayer RESC1608X55N                  497.000       239.000       180      "Resistor RC0603FR-074K7L"                                                                    
+R10        4.7k                          TopLayer RESC1608X55N                  500.000       140.000       180      "Resistor RC0603FR-074K7L"                                                                    
+R9         4.7k                          TopLayer RESC1608X55N                  772.000       518.000       0        "Resistor RC0603FR-074K7L"                                                                    
+R8         4.7k                          TopLayer RESC1608X55N                  772.000       579.000       0        "Resistor RC0603FR-074K7L"                                                                    
+R7         40.2k                         TopLayer STA_RMCF0805_STP-L            1178.000      347.000       0        RMCF0805FT40K2                                                                                
+R6         10k                           TopLayer RESC1608X55N                  1326.000      377.000       180      RK73H1JTTD1002F                                                                               
+R5         100                           TopLayer RESC1608X55N                  1118.000      418.000       0        "Resistor ERJ-3EKF1000V"                                                                      
+R4         10k                           TopLayer RESC1608X55N                  1178.000      273.000       180      RK73H1JTTD1002F                                                                               
+R3         5.1k                          TopLayer RESC1608X55N                  406.000       877.000       0        "Resistor RC0603FR-075K1L"                                                                    
+R2         100                           TopLayer RESC1608X55N                  110.000       489.000       180      "Resistor ERJ-3EKF1000V"                                                                      
+R1         5.1k                          TopLayer RESC1608X55N                  406.000       940.000       0        "Resistor RC0603FR-075K1L"                                                                    
+LED3       "LED GREEN DIFFUSED 0603 SMD" TopLayer LED_B1931NG_HVK               523.000       523.000       90       "LED GREEN DIFFUSED 0603 SMD"                                                                 
+LED2       "LED GREEN DIFFUSED 0603 SMD" TopLayer LED_B1931NG_HVK               1094.000      513.000       90       "LED GREEN DIFFUSED 0603 SMD"                                                                 
+LED1       "LED GREEN DIFFUSED 0603 SMD" TopLayer LED_B1931NG_HVK               110.236       551.181       0        "LED GREEN DIFFUSED 0603 SMD"                                                                 
+L1         1uH                           TopLayer INDC2016X100N                 1458.000      625.000       270      CIGT201610LH1R0MNE                                                                            
+J4         "2*3 PIN"                     TopLayer HDRV6W64P254_2X3_762X508X868P 321.000       254.000       270      Connector                                                                                     
+J3         JST_XH_4_PIN                  TopLayer B4BXHALFSN                    819.213       761.000       180      Connector                                                                                     
+J2         JST_XH_2_PIN                  TopLayer B2BXHAGU                      1512.000      365.787       270      Connector                                                                                     
+J1         USB_Type_C                    TopLayer AMPHENOL_10174819-00011LF     192.913       905.512       270      "USB-C (USB TYPE-C) Receptacle Connector 24 (6+18 Dummy) Position Surface Mount, Right Angle" 
+IC3        ATTINY1616-MNR                TopLayer QFN40P300X300X90-21N          538.000       362.000       270      "Integrated Circuit ATTINY1616-MNR"                                                           
+IC2        NCP718BSN500T1G               TopLayer SOT95P280X100-5N              627.362       982.701       0        "Integrated Circuit"                                                                          
+IC1        BQ25302RTER                   TopLayer QFN50P300X300X80-17N-D        1310.000      509.370       0        "Integrated Circuit"                                                                          
+C10        0.1uF                         TopLayer C0603                         456.000       525.000       270      "Capacitor C0603C104K3RACTU"                                                                  
+C9         220nF                         TopLayer C0603                         884.000       357.000       270      "Capacitor C0603C224K4RECAUTO"                                                                
+C8         1uF                           TopLayer CAPC1608X90N                  827.000       221.000       90       CL10A105KO8NNNC                                                                               
+C7         1uF                           TopLayer CAPC1608X90N                  738.000       1051.000      270      CL10A105KO8NNNC                                                                               
+C6         1uF                           TopLayer CAPC1608X90N                  508.000       1049.000      270      CL10A105KO8NNNC                                                                               
+C5         2.2uF                         TopLayer CAPC1608X90N                  1152.000      501.000       270      CL10A225KO8NNNC                                                                               
+C4         10uF                          TopLayer CAPC1608X90N                  1226.000      648.370       270      CL10A106KQ8NNNC                                                                               
+C3         2.2uF                         TopLayer CAPC1608X90N                  1172.000      648.370       270      CL10A225KO8NNNC                                                                               
+C2         10uF                          TopLayer CAPC1608X90N                  1555.000      582.000       180      CL10A106KQ8NNNC                                                                               
+C1         47nF                          TopLayer C0603                         1317.000      648.370       0        C0603C473K4RECAUTO                                                                            

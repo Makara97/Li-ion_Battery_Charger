@@ -1,0 +1,589 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 6 35.99999912 2.99999908 0 N FM3 FIDUCIAL ;0=1,1=0.0000
+TOP 0 35.99999912 2.99999908 0 N 0 17 1
+#
+# CMP 1
+CMP 6 8.99999978 31.9999995 0 N FM1 FIDUCIAL ;0=1,1=0.0000
+TOP 0 8.99999978 31.9999995 0 N 0 19 1
+#
+# CMP 2
+CMP 6 35.99999912 31.9999995 0 N FM2 FIDUCIAL ;0=1,1=0.0000
+TOP 0 35.99999912 31.9999995 0 N 0 18 1
+#
+# CMP 3
+CMP 5 18.288 9.271 90 N U1 STC3115AIQT ;0=1,1=0.0000
+PRP Mfr_Name 'STMicroelectronics'
+PRP RefDes 'RefDes'
+PRP Supplier_1 'Arrow Electronics'
+PRP Supplier_Part_Number_1 'STC3115AIQT'
+PRP Type 'Type'
+TOP 0 19.28800054 10.0838 90 N 12 0 1
+TOP 1 18.787999 10.1473 90 N 15 0 2
+TOP 2 18.288 10.1473 90 N 10 0 3
+TOP 3 17.788001 10.1473 90 N 0 3 4
+TOP 4 17.28799946 10.1473 90 N 22 17 5
+TOP 5 17.28799946 8.3947 90 N 22 16 6
+TOP 6 17.788001 8.3947 90 N 13 0 7
+TOP 7 18.288 8.3947 90 N 4 0 8
+TOP 8 18.787999 8.3947 90 N 18 3 9
+TOP 9 19.28800054 8.3947 90 N 17 0 10
+#
+# CMP 4
+CMP 12 14.859 13.2842 270 N R16 100 ;0=1,1=0.0000
+PRP Arrow_Part_Number 'ERJ-3EKF1000V'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/erj-3ekf1000v/panasonic?utm_currency=USD&region=nac'
+PRP Datasheet_Link 'http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf'
+PRP Height '0.55mm'
+PRP Manufacturer_Name 'Panasonic'
+PRP Manufacturer_Part_Number 'ERJ-3EKF1000V'
+PRP Mouser_Part_Number '667-ERJ-3EKF1000V'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-3EKF1000V?qs=H7k1u0Mp9JS7i8KGO5m47A%3D%3D'
+PRP Supplier_1 'Mouser'
+PRP Supplier_Part_Number_1 '667-ERJ-3EKF1000V'
+TOP 0 14.859 12.48419906 180 N 14 1 1
+TOP 1 14.859 14.08420348 180 N 5 1 2
+#
+# CMP 5
+CMP 12 18.3642 5.8166 90 N R13 1k ;0=1,1=0.0000
+PRP Arrow_Part_Number 'RMCF0603FT1K00'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac'
+PRP Datasheet_Link 'https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf'
+PRP Height '0.55mm'
+PRP Manufacturer_Name 'Stackpole Electronics'
+PRP Manufacturer_Part_Number 'RMCF0603FT1K00'
+PRP Mouser_Part_Number '708-RMCF0603FT1K00'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 'RMCF0603FT1K00CT-ND'
+TOP 0 18.3642 6.61660094 0 N 4 1 1
+TOP 1 18.3642 5.01659906 0 N 22 22 2
+#
+# CMP 6
+CMP 12 22.479 5.8928 90 N R12 1k ;0=1,1=0.0000
+PRP Arrow_Part_Number 'RMCF0603FT1K00'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac'
+PRP Datasheet_Link 'https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf'
+PRP Height '0.55mm'
+PRP Manufacturer_Name 'Stackpole Electronics'
+PRP Manufacturer_Part_Number 'RMCF0603FT1K00'
+PRP Mouser_Part_Number '708-RMCF0603FT1K00'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 'RMCF0603FT1K00CT-ND'
+TOP 0 22.479 6.6927984 0 N 17 2 1
+TOP 1 22.479 5.09279906 0 N 18 5 2
+#
+# CMP 7
+CMP 12 12.6238 6.0706 180 N R11 4.7k ;0=1,1=0.0000
+PRP Arrow_Part_Number 'RC0603FR-074K7L'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/rc0603fr-074k7l/yageo?utm_currency=USD&region=europe'
+PRP Datasheet_Link 'https://componentsearchengine.com/Datasheets/2/RC0603FR-074K7L.pdf'
+PRP Height '0.55mm'
+PRP Manufacturer_Name 'YAGEO'
+PRP Manufacturer_Part_Number 'RC0603FR-074K7L'
+PRP Mouser_Part_Number '603-RC0603FR-074K7L'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603FR-074K7L?qs=gt6vzsuosg37y0l7Vt36bQ%3D%3D'
+PRP Supplier_1 'Future Electronics'
+PRP Supplier_Part_Number_1 '5489695'
+TOP 0 13.42380094 6.0706 90 N 13 2 1
+TOP 1 11.82379906 6.0706 90 N 23 3 2
+#
+# CMP 8
+CMP 12 12.7 3.556 180 N R10 4.7k ;0=1,1=0.0000
+PRP Arrow_Part_Number 'RC0603FR-074K7L'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/rc0603fr-074k7l/yageo?utm_currency=USD&region=europe'
+PRP Datasheet_Link 'https://componentsearchengine.com/Datasheets/2/RC0603FR-074K7L.pdf'
+PRP Height '0.55mm'
+PRP Manufacturer_Name 'YAGEO'
+PRP Manufacturer_Part_Number 'RC0603FR-074K7L'
+PRP Mouser_Part_Number '603-RC0603FR-074K7L'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603FR-074K7L?qs=gt6vzsuosg37y0l7Vt36bQ%3D%3D'
+PRP Supplier_1 'Future Electronics'
+PRP Supplier_Part_Number_1 '5489695'
+TOP 0 13.50000094 3.556 90 N 12 2 1
+TOP 1 11.89999906 3.55599746 90 N 23 2 2
+#
+# CMP 9
+CMP 12 19.6088 13.1572 0 N R9 4.7k ;0=1,1=0.0000
+PRP Arrow_Part_Number 'RC0603FR-074K7L'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/rc0603fr-074k7l/yageo?utm_currency=USD&region=europe'
+PRP Datasheet_Link 'https://componentsearchengine.com/Datasheets/2/RC0603FR-074K7L.pdf'
+PRP Height '0.55mm'
+PRP Manufacturer_Name 'YAGEO'
+PRP Manufacturer_Part_Number 'RC0603FR-074K7L'
+PRP Mouser_Part_Number '603-RC0603FR-074K7L'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603FR-074K7L?qs=gt6vzsuosg37y0l7Vt36bQ%3D%3D'
+PRP Supplier_1 'Future Electronics'
+PRP Supplier_Part_Number_1 '5489695'
+TOP 0 18.80879906 13.1572 270 N 15 2 1
+TOP 1 20.40880094 13.1572 270 N 23 5 2
+#
+# CMP 10
+CMP 12 19.6088 14.7066 0 N R8 4.7k ;0=1,1=0.0000
+PRP Arrow_Part_Number 'RC0603FR-074K7L'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/rc0603fr-074k7l/yageo?utm_currency=USD&region=europe'
+PRP Datasheet_Link 'https://componentsearchengine.com/Datasheets/2/RC0603FR-074K7L.pdf'
+PRP Height '0.55mm'
+PRP Manufacturer_Name 'YAGEO'
+PRP Manufacturer_Part_Number 'RC0603FR-074K7L'
+PRP Mouser_Part_Number '603-RC0603FR-074K7L'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603FR-074K7L?qs=gt6vzsuosg37y0l7Vt36bQ%3D%3D'
+PRP Supplier_1 'Future Electronics'
+PRP Supplier_Part_Number_1 '5489695'
+TOP 0 18.80879906 14.7066 270 N 10 2 1
+TOP 1 20.40880094 14.7066 270 N 23 4 2
+#
+# CMP 11
+CMP 14 29.9212 8.8138 0 N R7 40.2k ;0=1,1=0.0000
+PRP Mfr_Name 'Stackpole International'
+PRP RefDes ''
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 'RMCF0805FT40K2CT-ND'
+PRP Type ''
+TOP 0 29.0703 8.8138 0 N 22 27 1
+TOP 1 30.7721 8.8138 0 N 21 1 2
+#
+# CMP 12
+CMP 12 33.6804 9.5758 180 N R6 10k ;0=1,1=0.0000
+PRP Arrow_Part_Number 'RK73H1JTTD1002F'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/rk73h1jttd1002f/koa-speer-electronics?region=nac'
+PRP Datasheet_Link 'http://www.koaspeer.com/catimages/Products/RK73-RT/RK73-RT.pdf'
+PRP Height '0.55mm'
+PRP Manufacturer_Name 'KOA Speer'
+PRP Manufacturer_Part_Number 'RK73H1JTTD1002F'
+PRP Mouser_Part_Number '660-RK73H1JTTD1002F'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KOA-Speer/RK73H1JTTD1002F?qs=%252BHd4ebZ%252Bq6V15kIYdKv25A%3D%3D'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '2019-RK73H1JTTD1002FCT-ND'
+TOP 0 34.48040094 9.5758 90 N 22 4 1
+TOP 1 32.88039906 9.5758 90 N 16 0 2
+#
+# CMP 13
+CMP 12 28.3972 10.6172 0 N R5 100 ;0=1,1=0.0000
+PRP Arrow_Part_Number 'ERJ-3EKF1000V'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/erj-3ekf1000v/panasonic?utm_currency=USD&region=nac'
+PRP Datasheet_Link 'http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf'
+PRP Height '0.55mm'
+PRP Manufacturer_Name 'Panasonic'
+PRP Manufacturer_Part_Number 'ERJ-3EKF1000V'
+PRP Mouser_Part_Number '667-ERJ-3EKF1000V'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-3EKF1000V?qs=H7k1u0Mp9JS7i8KGO5m47A%3D%3D'
+PRP Supplier_1 'Mouser'
+PRP Supplier_Part_Number_1 '667-ERJ-3EKF1000V'
+TOP 0 27.59719906 10.6172 270 N 6 1 1
+TOP 1 29.19720094 10.6172 270 N 1 1 2
+#
+# CMP 14
+CMP 12 29.9212 6.9342 180 N R4 10k ;0=1,1=0.0000
+PRP Arrow_Part_Number 'RK73H1JTTD1002F'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/rk73h1jttd1002f/koa-speer-electronics?region=nac'
+PRP Datasheet_Link 'http://www.koaspeer.com/catimages/Products/RK73-RT/RK73-RT.pdf'
+PRP Height '0.55mm'
+PRP Manufacturer_Name 'KOA Speer'
+PRP Manufacturer_Part_Number 'RK73H1JTTD1002F'
+PRP Mouser_Part_Number '660-RK73H1JTTD1002F'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KOA-Speer/RK73H1JTTD1002F?qs=%252BHd4ebZ%252Bq6V15kIYdKv25A%3D%3D'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '2019-RK73H1JTTD1002FCT-ND'
+TOP 0 30.72120094 6.9342 90 N 16 2 1
+TOP 1 29.12119906 6.9342 90 N 2 3 2
+#
+# CMP 15
+CMP 12 10.3124 22.2758 0 N R3 5.1k ;0=1,1=0.0000
+PRP Arrow_Part_Number 'RC0603FR-075K1L'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/rc0603fr-075k1l/yageo?region=nac'
+PRP Datasheet_Link 'http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf'
+PRP Height '0.55mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'RC0603FR-075K1L'
+PRP Mouser_Part_Number '603-RC0603FR-075K1L'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603FR-075K1L?qs=gt6vzsuosg2jUUwxnI2PJQ%3D%3D'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '311-5.10KHRCT-ND'
+TOP 0 9.51239906 22.2758 270 N 8 0 1
+TOP 1 11.11240094 22.2758 270 N 22 1 2
+#
+# CMP 16
+CMP 12 2.794 12.4206 180 N R2 100 ;0=1,1=0.0000
+PRP Arrow_Part_Number 'ERJ-3EKF1000V'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/erj-3ekf1000v/panasonic?utm_currency=USD&region=nac'
+PRP Datasheet_Link 'http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf'
+PRP Height '0.55mm'
+PRP Manufacturer_Name 'Panasonic'
+PRP Manufacturer_Part_Number 'ERJ-3EKF1000V'
+PRP Mouser_Part_Number '667-ERJ-3EKF1000V'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-3EKF1000V?qs=H7k1u0Mp9JS7i8KGO5m47A%3D%3D'
+PRP Supplier_1 'Mouser'
+PRP Supplier_Part_Number_1 '667-ERJ-3EKF1000V'
+TOP 0 3.59400348 12.4206 90 N 22 2 1
+TOP 1 1.99399906 12.4206 90 N 7 0 2
+#
+# CMP 17
+CMP 12 10.3124 23.876 0 N R1 5.1k ;0=1,1=0.0000
+PRP Arrow_Part_Number 'RC0603FR-075K1L'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/rc0603fr-075k1l/yageo?region=nac'
+PRP Datasheet_Link 'http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf'
+PRP Height '0.55mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'RC0603FR-075K1L'
+PRP Mouser_Part_Number '603-RC0603FR-075K1L'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603FR-075K1L?qs=gt6vzsuosg2jUUwxnI2PJQ%3D%3D'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '311-5.10KHRCT-ND'
+TOP 0 9.51239906 23.876 270 N 9 0 1
+TOP 1 11.11240094 23.876 270 N 22 3 2
+#
+# CMP 18
+CMP 9 13.2842 13.2842 270 N LED3 LED_GREEN_DIFFUSED_0603_SMD ;0=1,1=0.0000
+PRP Mfr_Name 'Harvatek'
+PRP RefDes ''
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '3147-B1931NG--20D001114U1930CT-ND'
+PRP Type 'LED Indication'
+TOP 0 13.2842 12.48419906 270 N 22 23 1
+TOP 1 13.2842 14.08420094 90 N 5 0 2
+#
+# CMP 19
+CMP 9 27.7876 13.0302 270 N LED2 LED_GREEN_DIFFUSED_0603_SMD ;0=1,1=0.0000
+PRP Mfr_Name 'Harvatek'
+PRP RefDes ''
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '3147-B1931NG--20D001114U1930CT-ND'
+PRP Type 'LED Indication'
+TOP 0 27.7876 12.23019906 270 N 6 0 1
+TOP 1 27.7876 13.83020094 90 N 2 2 2
+#
+# CMP 20
+CMP 9 2.79999948 13.99999994 0 N LED1 LED_GREEN_DIFFUSED_0603_SMD ;0=1,1=0.0000
+PRP Mfr_Name 'Harvatek'
+PRP RefDes ''
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '3147-B1931NG--20D001114U1930CT-ND'
+PRP Type 'LED Indication'
+TOP 0 1.99999854 13.99999994 0 N 7 1 1
+TOP 1 3.60000042 13.99999994 180 N 24 0 2
+#
+# CMP 21
+CMP 8 37.0332 15.875 90 N L1 1uH ;0=1,1=0.0000
+PRP Arrow_Part_Number 'CIGT201610LH1R0MNE'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/cigt201610lh1r0mne/samsung-electro-mechanics?utm_currency=USD&region=nac'
+PRP Datasheet_Link 'https://datasheet.datasheetarchive.com/originals/distributors/DKDS-19/372470.pdf'
+PRP Height '1mm'
+PRP Manufacturer_Name 'SAMSUNG'
+PRP Manufacturer_Part_Number 'CIGT201610LH1R0MNE'
+PRP Mouser_Part_Number '187-CIGT201610LH1R0M'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CIGT201610LH1R0MNE?qs=xZ%2FP%252Ba9zWqYdDsZ4M%252BqcTg%3D%3D'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '1276-6910-1-ND'
+TOP 0 37.0332 16.77500074 0 N 19 0 1
+TOP 1 37.0332 14.97499926 0 N 18 0 2
+#
+# CMP 22
+CMP 7 6.8834 8.9916 90 N J4 2*3_PIN ;0=2,1=0.0000
+PRP Arrow_Part_Number ''
+PRP Arrow_Price/Stock ''
+PRP Datasheet_Link 'https://cdn.harwin.com/pdfs/M20-998.pdf'
+PRP Height '8.68mm'
+PRP Manufacturer_Name 'Harwin'
+PRP Manufacturer_Part_Number 'M20-9980346'
+PRP Mouser_Part_Number '855-M20-9980346'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Harwin/M20-9980346?qs=%252Bk6%2F5FB6qrmHk2P20oz3FA%3D%3D'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '952-2121-ND'
+TOP 0 6.8834 8.9916 90 N 11 1 1
+TOP 1 9.4234 8.99159746 90 N 23 9 2
+TOP 2 6.8834 6.4516 90 N 0 22 3
+TOP 3 9.4234 6.45159746 90 N 0 21 4
+TOP 4 6.8834 3.91159746 90 N 0 20 5
+TOP 5 9.4234 3.91159746 90 N 22 34 6
+#
+# CMP 23
+CMP 2 24.5580027 19.3294 180 N J3 JST_XH_4_PIN ;0=2,1=0.0000
+PRP Arrow_Part_Number 'B4B-XH-A(LF)(SN)'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/b4b-xh-a-lf-sn/jst-manufacturing?utm_currency=USD&region=europe'
+PRP Datasheet_Link 'https://datasheet.lcsc.com/szlcsc/JST-Sales-America-B4B-XH-A-LF-SN_C144395.pdf'
+PRP Height '7mm'
+PRP Manufacturer_Name 'JST (JAPAN SOLDERLESS TERMINALS)'
+PRP Manufacturer_Part_Number 'B4B-XH-A(LF)(SN)'
+PRP Mouser_Part_Number '306-B4BXHALFSN'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/JST-Commercial/B4B-XH-ALFSN?qs=cdbOS8ANM9CfC08d%252BywhFw%3D%3D'
+PRP Supplier_1 'Mouser'
+PRP Supplier_Part_Number_1 '306-B4BXHALFSN'
+TOP 0 24.5580027 19.3294 180 N 22 28 1
+TOP 1 22.05800008 19.3294 180 N 23 8 2
+TOP 2 19.558 19.3294 180 N 10 3 3
+TOP 3 17.05799738 19.3294 180 N 15 3 4
+#
+# CMP 24
+CMP 1 38.4048 10.541 90 N J2 JST_XH_2_PIN ;0=2,1=0.0000
+PRP Arrow_Part_Number 'B2B-XH-A-GU'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/b2b-xh-a-gu/jst-manufacturing?utm_currency=USD&region=europe'
+PRP Datasheet_Link 'http://www.jst-mfg.com/product/pdf/eng/eXH.pdf'
+PRP Height '7mm'
+PRP Manufacturer_Name 'JST (JAPAN SOLDERLESS TERMINALS)'
+PRP Manufacturer_Part_Number 'B2B-XH-A-GU'
+PRP Mouser_Part_Number 'N/A'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/JST-Commercial/B2B-XH-A-GU?qs=IKkN%2F947nfBVsqimfO%252BieQ%3D%3D'
+TOP 0 38.4048 10.541 90 N 18 6 1
+TOP 1 38.4048 8.04099992 90 N 22 29 2
+#
+# CMP 25
+CMP 0 2.50000008 22.99999972 90 N J1 USB_Type_C ;0=1,1=3.1400
+PRP Check_prices 'https://www.snapeda.com/parts/10174819-00011LF/Amphenol/view-part/?ref=eda'
+PRP MF 'Amphenol Communications Solutions-FCI'
+PRP MP '10174819-00011LF'
+PRP Package 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/10174819-00011LF/Amphenol/view-part/?ref=snap'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '609-10174819-00011LFCT-ND'
+PRP Value ''
+TOP 0 7.30000064 23.49999872 90 N 9 1 A5
+TOP 1 7.30000064 21.48000276 90 N 24 4 A9
+TOP 2 7.30000064 20.25000014 90 N 22 14 A12
+TOP 3 7.30000064 22.50000072 90 N 8 1 B5
+TOP 4 7.30000064 24.51999668 90 N 24 5 B9
+TOP 5 7.30000064 25.7499993 90 N 22 15 B12
+TOP 6 2.50000008 28.58000126 0 N 22 33 SH1
+TOP 7 2.50000008 17.41999818 0 N 22 32 SH2
+TOP 8 6.1000005 28.57999872 0 N 22 31 SH3
+TOP 9 6.1000005 17.42000072 0 N 22 30 SH4
+#
+# CMP 26
+CMP 10 13.6652 9.1948 90 N IC3 ATTINY1616-MNR ;0=1,1=0.0000
+PRP Arrow_Part_Number 'ATTINY1616-MNR'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/attiny1616-mnr/microchip-technology?utm_currency=USD&region=nac'
+PRP Datasheet_Link 'https://datasheet.datasheetarchive.com/originals/distributors/DKDS41/DSANUWW0026757.pdf'
+PRP Height '0.9mm'
+PRP Manufacturer_Name 'Microchip'
+PRP Manufacturer_Part_Number 'ATTINY1616-MNR'
+PRP Mouser_Part_Number '556-ATTINY1616MNR'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Microchip-Technology/ATTINY1616-MNR?qs=HXFqYaX1Q2yKNpuKQU9qww%3D%3D'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 'ATTINY1616-MNRCT-ND'
+TOP 0 14.46520348 10.69479954 90 N 15 1 1
+TOP 1 14.0651992 10.69479954 90 N 14 0 2
+TOP 2 13.66520254 10.69479954 90 N 22 19 3
+TOP 3 13.26520334 10.69479954 90 N 23 1 4
+TOP 4 12.8652016 10.69479954 90 N 0 15 5
+TOP 5 12.165203 9.99480094 0 N 0 14 6
+TOP 6 12.165203 9.5947992 0 N 0 13 7
+TOP 7 12.165203 9.1948 0 N 0 12 8
+TOP 8 12.165203 8.7948008 0 N 0 11 9
+TOP 9 12.165203 8.39479906 0 N 0 10 10
+TOP 10 12.8652016 7.69480046 90 N 0 9 11
+TOP 11 13.26520334 7.69480046 90 N 0 8 12
+TOP 12 13.66520254 7.69480046 90 N 0 7 13
+TOP 13 14.0651992 7.69480046 90 N 13 1 14
+TOP 14 14.46520348 7.69480046 90 N 12 1 15
+TOP 15 15.16520208 8.39479906 0 N 0 6 16
+TOP 16 15.16520208 8.7948008 0 N 0 5 17
+TOP 17 15.16520208 9.1948 0 N 0 4 18
+TOP 18 15.16520208 9.5947992 0 N 11 0 19
+TOP 19 15.16520208 9.99480094 0 N 10 1 20
+TOP 20 13.6652 9.1948 0 N 22 18 21
+#
+# CMP 27
+CMP 13 15.93499734 24.96060032 0 N IC2 NCP718BSN500T1G ;0=1,1=0.0000
+PRP Arrow_Part_Number 'NCP718BSN500T1G'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/ncp718bsn500t1g/on-semiconductor?region=nac'
+PRP Datasheet_Link 'https://www.onsemi.com/pub/Collateral/NCP718-D.PDF'
+PRP Height '1mm'
+PRP Manufacturer_Name 'onsemi'
+PRP Manufacturer_Part_Number 'NCP718BSN500T1G'
+PRP Mouser_Part_Number '863-NCP718BSN500T1G'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/onsemi/NCP718BSN500T1G?qs=MLItCLRbWsy0K4chDaw%252BGA%3D%3D'
+PRP Supplier_1 'Arrow Electronics'
+PRP Supplier_Part_Number_1 'NCP718BSN500T1G'
+TOP 0 14.63499994 25.91060096 0 N 24 6 1
+TOP 1 14.63499994 24.96060032 0 N 22 25 2
+TOP 2 14.63499994 24.01059968 0 N 24 7 3
+TOP 3 17.23499982 24.01059968 0 N 0 16 4
+TOP 4 17.23499982 25.91060096 0 N 23 7 5
+#
+# CMP 28
+CMP 11 33.274 12.937998 0 N IC1 BQ25302RTER ;0=1,1=0.0000
+PRP Arrow_Part_Number 'BQ25302RTER'
+PRP Arrow_Price/Stock 'null?region=nac'
+PRP Datasheet_Link 'https://www.ti.com/lit/gpn/bq25302?HQS=ti-null-null-sf-df-pf-sep-wwe&DCM=yes'
+PRP Height '0.8mm'
+PRP Manufacturer_Name 'Texas Instruments'
+PRP Manufacturer_Part_Number 'BQ25302RTER'
+PRP Mouser_Part_Number '595-BQ25302RTER'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Texas-Instruments/BQ25302RTER?qs=T94vaHKWudT5T0v43I60Mg%3D%3D'
+PRP Supplier_1 'Mouser'
+PRP Supplier_Part_Number_1 '595-BQ25302RTER'
+TOP 0 31.77400046 13.68799904 0 N 24 2 1
+TOP 1 31.77400046 13.1879975 0 N 2 0 2
+TOP 2 31.77400046 12.6879985 0 N 1 0 3
+TOP 3 31.77400046 12.18799696 0 N 21 0 4
+TOP 4 32.52399896 11.43799846 270 N 0 2 5
+TOP 5 33.0240005 11.43799846 270 N 0 1 6
+TOP 6 33.5239995 11.43799846 270 N 16 1 7
+TOP 7 34.02400104 11.43799846 270 N 0 0 8
+TOP 8 34.77399954 12.18799696 0 N 22 11 9
+TOP 9 34.77399954 12.6879985 0 N 18 2 10
+TOP 10 34.77399954 13.1879975 0 N 22 10 11
+TOP 11 34.77399954 13.68799904 0 N 22 9 12
+TOP 12 34.02400104 14.43799754 270 N 19 3 13
+TOP 13 33.5239995 14.43799754 270 N 19 2 14
+TOP 14 33.0240005 14.43799754 270 N 20 1 15
+TOP 15 32.52399896 14.43799754 270 N 3 0 16
+TOP 16 33.274 12.937998 270 N 22 8 17
+#
+# CMP 29
+CMP 3 11.5824 13.335 90 N C10 0.1uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'C0603C104K3RACTU'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/c0603c104k3ractu/kemet-corporation?utm_currency=USD&region=nac'
+PRP Datasheet_Link 'https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf'
+PRP Height '0.87mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K3RACTU'
+PRP Mouser_Part_Number '80-C0603C104K3R'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K3RACTU?qs=l5k%252BbMnNDklvfdneglCDAg%3D%3D'
+PRP Supplier_1 'Arrow Electronics'
+PRP Supplier_Part_Number_1 'C0603C104K3RACTU'
+TOP 0 11.5824 14.13500094 0 N 22 24 1
+TOP 1 11.5824 12.53499906 0 N 23 6 2
+#
+# CMP 30
+CMP 3 22.4536 9.0678 90 N C9 220nF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'C0603C224K4RECAUTO'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/c0603c224k4recauto/kemet-corporation?region=nac'
+PRP Datasheet_Link 'https://content.kemet.com/datasheets/KEM_C1090_X7R_ESD.pdf'
+PRP Height '0.87mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C224K4RECAUTO'
+PRP Mouser_Part_Number '80-C0603C224K4RECAUT'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KEMET/C0603C224K4RECAUTO?qs=MLItCLRbWszB36u3S8vAZQ%3D%3D'
+PRP Supplier_1 'Arrow Electronics'
+PRP Supplier_Part_Number_1 'C0603C224K4RECAUTO'
+TOP 0 22.4536 9.86780094 0 N 22 20 1
+TOP 1 22.4536 8.26779906 0 N 17 1 2
+#
+# CMP 31
+CMP 4 21.0058 5.6134 270 N C8 1uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'CL10A105KO8NNNC'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/cl10a105ko8nnnc/samsung-electro-mechanics?utm_currency=USD&region=nac'
+PRP Datasheet_Link 'https://labcenter.componentsearchengine.com/Datasheets/2/CL10A105KO8NNNC.pdf'
+PRP Height '0.9mm'
+PRP Manufacturer_Name 'SAMSUNG'
+PRP Manufacturer_Part_Number 'CL10A105KO8NNNC'
+PRP Mouser_Part_Number '187-CL10A105KO8NNNC'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL10A105KO8NNNC?qs=hqM3L16%252BxlfR4qamq4FMLg%3D%3D'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '1276-1034-1-ND'
+TOP 0 21.0058 4.90339888 180 N 18 4 1
+TOP 1 21.0058 6.32340112 180 N 22 21 2
+#
+# CMP 32
+CMP 4 18.7452 26.6954 90 N C7 1uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'CL10A105KO8NNNC'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/cl10a105ko8nnnc/samsung-electro-mechanics?utm_currency=USD&region=nac'
+PRP Datasheet_Link 'https://labcenter.componentsearchengine.com/Datasheets/2/CL10A105KO8NNNC.pdf'
+PRP Height '0.9mm'
+PRP Manufacturer_Name 'SAMSUNG'
+PRP Manufacturer_Part_Number 'CL10A105KO8NNNC'
+PRP Mouser_Part_Number '187-CL10A105KO8NNNC'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL10A105KO8NNNC?qs=hqM3L16%252BxlfR4qamq4FMLg%3D%3D'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '1276-1034-1-ND'
+TOP 0 18.7452 27.40540112 0 N 22 6 1
+TOP 1 18.7452 25.98539888 0 N 23 0 2
+#
+# CMP 33
+CMP 4 12.9032 26.6446 90 N C6 1uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'CL10A105KO8NNNC'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/cl10a105ko8nnnc/samsung-electro-mechanics?utm_currency=USD&region=nac'
+PRP Datasheet_Link 'https://labcenter.componentsearchengine.com/Datasheets/2/CL10A105KO8NNNC.pdf'
+PRP Height '0.9mm'
+PRP Manufacturer_Name 'SAMSUNG'
+PRP Manufacturer_Part_Number 'CL10A105KO8NNNC'
+PRP Mouser_Part_Number '187-CL10A105KO8NNNC'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL10A105KO8NNNC?qs=hqM3L16%252BxlfR4qamq4FMLg%3D%3D'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '1276-1034-1-ND'
+TOP 0 12.9032 27.35460112 0 N 22 5 1
+TOP 1 12.9032 25.93459888 0 N 24 1 2
+#
+# CMP 34
+CMP 4 29.2608 12.7254 90 N C5 2.2uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'CL10A225KO8NNNC'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/cl10a225ko8nnnc/samsung-electro-mechanics?region=europe'
+PRP Datasheet_Link 'https://lcsc.componentsearchengine.com/Datasheets/2/CL10A225KO8NNNC.pdf'
+PRP Height '0.9mm'
+PRP Manufacturer_Name 'SAMSUNG'
+PRP Manufacturer_Part_Number 'CL10A225KO8NNNC'
+PRP Mouser_Part_Number '187-CL10A225KO8NNNC'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL10A225KO8NNNC?qs=hqM3L16%252BxlecoJxUp5hKOw%3D%3D'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '1276-1040-1-ND'
+TOP 0 29.2608 13.43540112 0 N 22 26 1
+TOP 1 29.2608 12.01539888 0 N 2 1 2
+#
+# CMP 35
+CMP 4 31.1404 16.468598 90 N C4 10uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'CL10A106KQ8NNNC'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/cl10a106kq8nnnc/samsung-electro-mechanics?utm_currency=USD&region=nac'
+PRP Datasheet_Link 'https://ms.componentsearchengine.com/Datasheets/2/CL10A106KQ8NNNC.pdf'
+PRP Height '0.9mm'
+PRP Manufacturer_Name 'SAMSUNG'
+PRP Manufacturer_Part_Number 'CL10A106KQ8NNNC'
+PRP Mouser_Part_Number '187-CL10A106KQ8NNNC'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL10A106KQ8NNNC?qs=349EhDEZ59o8RdV9CD4bGw%3D%3D'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '1276-1038-1-ND'
+TOP 0 31.1404 17.17859912 0 N 22 13 1
+TOP 1 31.1404 15.75859688 0 N 3 1 2
+#
+# CMP 36
+CMP 4 29.7688 16.468598 90 N C3 2.2uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'CL10A225KO8NNNC'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/cl10a225ko8nnnc/samsung-electro-mechanics?region=europe'
+PRP Datasheet_Link 'https://lcsc.componentsearchengine.com/Datasheets/2/CL10A225KO8NNNC.pdf'
+PRP Height '0.9mm'
+PRP Manufacturer_Name 'SAMSUNG'
+PRP Manufacturer_Part_Number 'CL10A225KO8NNNC'
+PRP Mouser_Part_Number '187-CL10A225KO8NNNC'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL10A225KO8NNNC?qs=hqM3L16%252BxlecoJxUp5hKOw%3D%3D'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '1276-1040-1-ND'
+TOP 0 29.7688 17.17859912 0 N 22 12 1
+TOP 1 29.7688 15.75859688 0 N 24 3 2
+#
+# CMP 37
+CMP 4 39.497 14.7828 180 N C2 10uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'CL10A106KQ8NNNC'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/cl10a106kq8nnnc/samsung-electro-mechanics?utm_currency=USD&region=nac'
+PRP Datasheet_Link 'https://ms.componentsearchengine.com/Datasheets/2/CL10A106KQ8NNNC.pdf'
+PRP Height '0.9mm'
+PRP Manufacturer_Name 'SAMSUNG'
+PRP Manufacturer_Part_Number 'CL10A106KQ8NNNC'
+PRP Mouser_Part_Number '187-CL10A106KQ8NNNC'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL10A106KQ8NNNC?qs=349EhDEZ59o8RdV9CD4bGw%3D%3D'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '1276-1038-1-ND'
+TOP 0 40.20700112 14.7828 90 N 22 7 1
+TOP 1 38.78699888 14.7828 90 N 18 1 2
+#
+# CMP 38
+CMP 3 33.4518 16.468598 0 N C1 47nF ;0=1,1=0.0000
+PRP Arrow_Part_Number ''
+PRP Arrow_Price/Stock ''
+PRP Datasheet_Link 'https://content.kemet.com/datasheets/KEM_C1090_X7R_ESD.pdf'
+PRP Height '0.87mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C473K4RECAUTO'
+PRP Mouser_Part_Number '80-C0603C473K4RECAUT'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KEMET/C0603C473K4RECAUTO?qs=MLItCLRbWsx7WtjsOHG43w%3D%3D'
+PRP Supplier_1 'Arrow Electronics'
+PRP Supplier_Part_Number_1 'C0603C473K4RECAUTO'
+TOP 0 32.65179906 16.468598 270 N 20 0 1
+TOP 1 34.25180094 16.468598 270 N 19 1 2
+#

@@ -1,14 +1,32 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 7:11:19 pm On 20/06/2025
+Output: ODB++ Files
+Type  : ODB
+From  : Variant [[No Variations]] of PCB Document [PCB.PcbDoc]
+   Generated File[profile]
+   Generated File[stephdr]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[features]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[components]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[data]
+   Generated File[netlist]
+   Generated File[matrix]
+   Generated File[PCB.REP]
 
-Output: Export IDF
-Type  : ExportIDF
-From  : PCB Document [PCB.PcbDoc]
-   Generated File[PCB.brd]
 
-
-Files Generated   : 1
+Files Generated   : 23
 Documents Printed : 0
 
-Finished Output Generation At 7:11:19 pm On 20/06/2025
+Finished Output Generation At 6:12:30 pm On 22/06/2025
